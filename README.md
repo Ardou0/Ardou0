@@ -1,5 +1,12 @@
-# 💫 About Me:
-👋 Hi, I'm Armand<br>Junior Developer focused on problem-solving and adaptability. 🚀<br><br>🛠️ Approach: Finding efficient solutions to any challenge I encounter.<br>📚 Mindset: Highly adaptable and constantly learning new workflows.<br>🎯 Goal: Growing through hands-on, collaborative projects.
+[![Armand Walle](og-image.png)](https://www.armand-walle.com)
+
+# About Me
+
+Hi, I'm **Armand** — Software Engineering student at **UTBM** and Fullstack Developer.
+
+I build reliable applications and software systems, with a focus on backend architecture, reactive systems, and DevOps automation.
+
+Visit [armand-walle.com](https://www.armand-walle.com/) to discover my projects and explore the deployed [system topology](https://www.armand-walle.com/architecture).
 
 
 ## 🌐 Socials:
